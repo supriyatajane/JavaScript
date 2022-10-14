@@ -1,0 +1,20 @@
+.purple{
+
+    color:purple;
+    background-color:red;
+    height: 100px;
+    width: 500px;
+    border: 1px yellow;
+}
+
+.red{
+    color:aqua;
+    background-color: brown;
+    height: 100px;
+    width: 500px;
+    border: red;
+}
+
+#one{
+    color: black;
+}

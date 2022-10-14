@@ -1,0 +1,15 @@
+how to open visual studio code
+1. goto folder - right click - open with code
+2. goto folder - select folder path - remove selected folder path - type cmd - command prompt will be open automatically - in cmd type code .
+3. open visual studio code - click on file - click on open folder - select which foilder u want to open - select folder - visual studio code will open 
+
+
+how to goto subfolder
+1. type in terminal - type cd - type folder fisrt letter and click on tab button - enter button
+2. type in terminal - cd - folder_name - enter button
+
+hot to run file
+1. in terminal - node - filename
+2. attach js file to html file - copy html file path - paste it in chrome - enter
+3. right click in browser - click on inspect - check in console 
+

@@ -1,0 +1,19 @@
+.purple {
+    color: purple;
+    background-color: black;
+    height: 100Px;
+    width: 500Px;
+    border: 1px solid purple;
+}
+
+.red {
+    color:red;
+    background-color: yellow;
+    border: 1px solid black;
+    height: 100Px;
+    width: 500Px;
+}
+
+#one {
+    color:blue
+}
